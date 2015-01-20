@@ -57,6 +57,11 @@ a:focus {
     color: #11505d;
 }
 
+
+.email {
+	color: black;
+}
+
 .light {
     font-weight: 400;
 }
